@@ -7,13 +7,11 @@ Imprescindible tener mplayer instalado. Si usas Ubuntu puedes instalarlo de la s
 
 ```sudo apt-get install mplayer```
 ___
-___
 Para acceder rapido a sus funciones podemos ejecutarlo siguiendo la siguiente sintaxis 
 
 ```Syntax: ./minitunes [-d] [-i jsonfilename].```
 
 -d cargará la collection y playlist almacenada en elfichero minitunes.dat y -i analizará el json que introduzcas.
-___
 ___
 Para usar la importación de previews desde iTunes usar un wget de la sigueinte manera:
 
