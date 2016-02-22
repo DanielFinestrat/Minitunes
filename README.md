@@ -11,7 +11,7 @@ Para acceder rapido a sus funciones podemos ejecutarlo siguiendo la siguiente si
 
 ```Syntax: ./minitunes [-d] [-i jsonfilename].```
 
--d cargará la collection y playlist almacenada en elfichero minitunes.dat y -i analizará el json que introduzcas.
+[-d] cargará la collection y playlist almacenada en el fichero minitunes.dat y [-i jsonfilename] analizará el json que introduzcas.
 ___
 Para usar la importación de previews desde iTunes usar un wget de la sigueinte manera:
 
