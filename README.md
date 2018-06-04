@@ -19,8 +19,8 @@ Para usar la importación de previews desde iTunes usar un wget de la sigueinte 
 
 Por ejemplo: 
 
-```wget itunes.apple.com/search?term="Ninja Sex Party" -q -O NinjaSexParty.txt```
+```wget itunes.apple.com/search?term="The Beatles" -q -O TheBeatles.txt```
 ___
 
 
-[Daniel Finestrat Martínez 2014.](https://garagefruit.com)
+[Daniel Finestrat Martínez 2014.](https://danielfinestrat.com)
