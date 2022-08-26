@@ -23,4 +23,4 @@ Por ejemplo:
 ___
 
 
-[Daniel Finestrat Martínez 2014.](https://danielfinestrat.com)
+2014.
